@@ -26,9 +26,9 @@ Além de servir como prática acadêmica, este projeto faz parte do meu portfól
 ```text
 Banco-de-Dados-Hospital-PostgreSQL/
 │
+├── README.md
 ├── schemas hospital.sql     # Script de criação das tabelas
-├── inserts hospital.sql     # Script com dados para testes
-└── README.md
+└── inserts hospital.sql     # Script com dados para testes
 ```
 
 ---
